@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivangmauryaa](https://github.com/shivangmauryaa)
 
-- 💬 Ask me about **red teaming, Bug Bounty and pentesting**
+- 💬 Ask me about **Red Teaming, Bug Bounty and pentesting**
 
 - 📫 How to reach me **shivangmauryaa@gmail.com**
 
