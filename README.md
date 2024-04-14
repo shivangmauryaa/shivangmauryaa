@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pentesting tools](https://github.com/shivangmauryaa/pytha-fuzz)
 
-- 🌱 I’m currently learning **Red Teaming and offensive security**
+- 🌱 I’m currently learning **Red Teaming and offensive security** yes
 
 - 👯 I’m looking to collaborate on **cyber security**
 
