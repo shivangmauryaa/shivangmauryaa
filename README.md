@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shivang maurya1</h1>
+<h1 align="center">Hi 👋, I'm shivang maurya</h1>
 <h3 align="center">Red Teaming | Bug Bounty | Penetration Testing | Developing</h3>
 
 - 🔭 I’m currently working on [Pentesting tools](https://github.com/shivangmauryaa/pytha-fuzz)
