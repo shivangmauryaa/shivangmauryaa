@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **shivangmauryaa@gmail.com**
 
-- As an 11th-grade student deeply enamored with cybersecurity, I am embarking on a multifaceted journey of learning. Penetration testing, red teaming, and bug bounty hunting are among the many avenues I am exploring to quench my insatiable thirst for knowledge in this captivating field.
+
+As an 11th-grade student deeply enamored with cybersecurity, I am embarking on a multifaceted journey of learning. Penetration testing, red teaming, and bug bounty hunting are among the many avenues I am exploring to quench my insatiable thirst for knowledge in this captivating field.
 
 My affection for cybersecurity knows no bounds; it's an unwavering devotion that compels me to unearth bugs and exploit loopholes within systems. The exhilaration I experience when I unravel these intricacies is unparalleled, propelling me further into the depths of this ever-evolving domain.
 
