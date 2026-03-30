@@ -188,8 +188,8 @@ Worked with Mumbai Police on cybersecurity investigations — log analysis, atta
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivangmauryaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangmauryaa)
-[![HackerOne](https://img.shields.io/badge/HackerOne-illepille-000000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/illepille)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-illepillee-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/illepillee)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Hidden000000?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/hideen)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Hidden-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Hidden)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-shivangmauryaa-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shivangmauryaa)
 [![Email](https://img.shields.io/badge/Email-shivangmauryaa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivangmauryaa@gmail.com)
 
